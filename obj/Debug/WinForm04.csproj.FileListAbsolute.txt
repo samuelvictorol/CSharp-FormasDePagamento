@@ -1,0 +1,11 @@
+C:\Users\samue\OneDrive\Área de Trabalho\DEV\Cast\C#-Intermediario\WinForm04\bin\Debug\WinForm04.exe.config
+C:\Users\samue\OneDrive\Área de Trabalho\DEV\Cast\C#-Intermediario\WinForm04\bin\Debug\WinForm04.exe
+C:\Users\samue\OneDrive\Área de Trabalho\DEV\Cast\C#-Intermediario\WinForm04\bin\Debug\WinForm04.pdb
+C:\Users\samue\OneDrive\Área de Trabalho\DEV\Cast\C#-Intermediario\WinForm04\obj\Debug\WinForm04.csproj.AssemblyReference.cache
+C:\Users\samue\OneDrive\Área de Trabalho\DEV\Cast\C#-Intermediario\WinForm04\obj\Debug\WinForm04.csproj.SuggestedBindingRedirects.cache
+C:\Users\samue\OneDrive\Área de Trabalho\DEV\Cast\C#-Intermediario\WinForm04\obj\Debug\WinForm04.Form1.resources
+C:\Users\samue\OneDrive\Área de Trabalho\DEV\Cast\C#-Intermediario\WinForm04\obj\Debug\WinForm04.Properties.Resources.resources
+C:\Users\samue\OneDrive\Área de Trabalho\DEV\Cast\C#-Intermediario\WinForm04\obj\Debug\WinForm04.csproj.GenerateResource.cache
+C:\Users\samue\OneDrive\Área de Trabalho\DEV\Cast\C#-Intermediario\WinForm04\obj\Debug\WinForm04.csproj.CoreCompileInputs.cache
+C:\Users\samue\OneDrive\Área de Trabalho\DEV\Cast\C#-Intermediario\WinForm04\obj\Debug\WinForm04.exe
+C:\Users\samue\OneDrive\Área de Trabalho\DEV\Cast\C#-Intermediario\WinForm04\obj\Debug\WinForm04.pdb
